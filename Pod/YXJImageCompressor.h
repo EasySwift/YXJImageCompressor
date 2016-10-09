@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 typedef enum : NSUInteger {
     _6M     = 1024*1024*6,
